@@ -2,8 +2,8 @@
 
 [ More Info ](https://gdsc.community.dev/babcock-university/)
 
-Hello and welcome to the 2023 Compose Camp.
-The following is a guide to proceeding with the code lab.
+Hello and welcome to the 2023 Compose Camp. </br>
+The following is a guide to proceeding with the code lab and important documents and links.
 
 <br/><br/>
 ##  Progress schedule
