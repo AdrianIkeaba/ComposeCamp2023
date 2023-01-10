@@ -24,7 +24,6 @@ TBD
 
 ## Compose CodeLabs
 - [ Go to Pathway ](https://developer.android.com/courses/pathways/compose)
-- 
 <br/></br>
 
 
