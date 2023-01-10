@@ -1,4 +1,5 @@
 # ComposeCamp2023
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgdsc.community.dev%2Fevents%2Fdetails%2Fdeveloper-student-clubs-machakos-university-presents-compose-camp-2022-12-08%2F&psig=AOvVaw2t92RdIlJnewZ1GcqzefeT&ust=1673403776348000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDq2f_4u_wCFQAAAAAdAAAAABAE)
 
 [ More Info ](https://gdsc.community.dev/babcock-university/)
 
@@ -11,7 +12,10 @@ TBD
 
 
 ## 💻 Requirements
-[ Android Studio ](https://developer.android.com/studio).
+-[ Android Studio For Windows, Mac and Linux](https://developer.android.com/studio).
+- Internet connection
+- Android device & USB cable (Optional)
+
 
 ## Kotlin CodeLabs
 - [ Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
