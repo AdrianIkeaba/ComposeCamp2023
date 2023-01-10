@@ -9,8 +9,13 @@ The following is a guide to proceeding with the code lab.
 ##  Progress schedule
 TBD
 
-## Compose CodeLabs
 
+## 💻 Requirements
+[Android Studio Chipmunk](https://developer.android.com/studio).
+
+## Compose CodeLabs
+- [ Go to Pathway ](https://developer.android.com/courses/pathways/compose)
+- 
 <br/></br>
 
 ## Kotlin CodeLabs
