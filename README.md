@@ -14,7 +14,10 @@ TBD
 [ Android Studio ](https://developer.android.com/studio).
 
 ## Kotlin CodeLabs
-[ Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+- [ Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+- [ Kotlin Codelabs ](https://developer.android.com/courses/kotlin-android-fundamentals/toc)
+
+
 
 ## Compose CodeLabs
 - [ Go to Pathway ](https://developer.android.com/courses/pathways/compose)
