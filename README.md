@@ -6,5 +6,11 @@ Hello and welcome to the 2023 Compose Camp.
 The following is a guide to proceeding with the code lab.
 
 <br/><br/>
-##  progress schedule
-November 7 - December 16, 2022
+##  Progress schedule
+TBD
+
+## Compose CodeLabs
+
+<br/></br>
+
+## Kotlin CodeLabs
